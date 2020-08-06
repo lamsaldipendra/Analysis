@@ -2,7 +2,7 @@
 
 Performing data analysis on various data sets.
 
-## Share DATA
+## Share price data
 
 ### File used
 FLT.csv
